@@ -1,6 +1,9 @@
 # gifAnimation processing library
 
-GifAnimation is a [Processing][1] library to play and export GIF animations. The GIFEncoder &amp; GIFDecoder classes were written by [Kevin Weiner][2]. Please see the separate copyright notice in the headers of the GifDecoder &amp; GifEncoder classes.
+GifAnimation is a [Processing][1] library to play and export GIF animations. 
+Original code by [Patrick Meister][5] .
+The GIFEncoder &amp; GIFDecoder classes were written by [Kevin Weiner][2].
+Please see the separate copyright notice in the headers of the GifDecoder &amp; GifEncoder classes.
 Processing 3.x port by [Jerome Saint-Clair][3]
 
 
@@ -193,4 +196,5 @@ the sketch folder. Returns true if saving the file was successful, false if not.
    [2]: http://www.fmsware.com/stuff/gif.html
    [3]: http://www.saint-clair.net
    [4]: https://github.com/01010101/GifAnimation/tree/master/download/GifAnimation.zip
+   [5]: https://github.com/extrapixel
   
