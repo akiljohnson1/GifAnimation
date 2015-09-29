@@ -6,7 +6,7 @@ Processing 3.x port by [Jerome Saint-Clair][3]
 
 ## DOWNLOAD
 
-[gifAnimation.zip][4] (compatible with Processing 3.x)
+[GifAnimation.zip][4] (compatible with Processing 3.x)
 
 ##  INSTALLATION:
 ### Processing 3.x
@@ -192,5 +192,5 @@ the sketch folder. Returns true if saving the file was successful, false if not.
    [1]: http://www.processing.org
    [2]: http://www.fmsware.com/stuff/gif.html
    [3]: http://www.saint-clair.net
-   [4]: https://github.com/01010101/GifAnimation/archive/master.zip
+   [4]: https://github.com/01010101/GifAnimation/tree/master/download/GifAnimation.zip
   
